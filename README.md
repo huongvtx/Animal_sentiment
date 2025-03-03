@@ -1,4 +1,4 @@
-# Animal_sentiment
+# Animal Sentiment on Social Media
 This project aimed to employ various fundamental knowledge of data wrangling and machine learning to sentiment analysis on social media's textual data.
 
 The data used in this project were obtained through scraping Facebook and Instagram's posts and comments centered around select animals between 2019 and 2023. As emojis (e.g., 😊 😏) and emoticons (e.g., :) <3 ) have become increasingly prevalent to express more nuanced emotions in virtual conversations, this project therefore has taken into account these components (text, emojis, and emoticons) to distill conclusive sentiment within individual expressions.
