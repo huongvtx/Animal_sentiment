@@ -13,3 +13,5 @@ As suggested by previous research, the overall sentiment of a single document wa
 - If the sentiments of the 2 components are at opposite ends (i.e., one is negative and the other is positive), then the overall sentiment is neutral.
 
 For a quick view, a presentation file is provided in which we summarised this approach from initiation to delivery, together with perceived limitations for upcoming improvement.
+
+![image](https://github.com/user-attachments/assets/0bd3bc0f-d88f-43f2-8845-e493a32ccd83)
